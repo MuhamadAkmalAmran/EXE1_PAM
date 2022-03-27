@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EXE1_PAM</string>
+    <string name="welcome">Welcome in Todo App</string>
+    <string name="sDatang">Selamat Datang</string>
+    <string name="tdNama">Masukan Nama</string>
+    <string name="tdPassword">Masukan Password</string>
+    <string name="login">SIGN IN</string>
+    <string name="Regis">Register</string>
+    <string name="Htask">Task</string>
+    <string name="task1">Task</string>
+    <string name="Ntask">Masukan Task</string>
+    <string name="task2">Jenis Task</string>
+    <string name="Jtask">Masukan jenis Task</string>
+    <string name="task3">Time Task</string>
+    <string name="Ttask">Masukan Lama Task</string>
+    <string name="dTask1">Ini Task</string>
+    <string name="dTask2">Ini Jenis Task</string>
+    <string name="dTask3">Ini Lama Task</string>
+    <string name="Register">Register</string>
+    <string name="Rnama">Masukkan Nama</string>
+    <string name="Remail">Masukkan Email</string>
+    <string name="Rpass">Masukkan Password</string>
+    <string name="Rrepass">Masukkan Password</string>
+    <string name="menu">Submit</string>
+    <string name="logout">Logout</string>
+</resources>
