@@ -20,8 +20,8 @@
 
     <TextView
         android:id="@+id/idNama"
-        android:layout_width="120dp"
-        android:layout_height="59dp"
+        android:layout_width="168dp"
+        android:layout_height="58dp"
         android:hint="@string/tdNama"
         android:textAlignment="textStart"
         android:textColor="#5C00FF"
@@ -29,7 +29,7 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.783"
+        app:layout_constraintHorizontal_bias="0.934"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.043" />
